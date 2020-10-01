@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##App Description
+
+###`This app was builded to train spa, adding two routes files for handle login and dashboard pages`
+
 ## Available Scripts
 
 In the project directory, you can run:
