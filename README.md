@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Visit https://hero-app-11d8a.firebaseapp.com/ to see running app
+
 ##App Description
 
 ###`This app was builded to train spa, adding two routes files for handle login and dashboard pages`
