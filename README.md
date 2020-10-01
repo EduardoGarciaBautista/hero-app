@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Visit https://hero-app-11d8a.firebaseapp.com/ to see running app
+##Visit https://hero-app-11d8a.web.app/ to see running app
 
 ##App Description
 
